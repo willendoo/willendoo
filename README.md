@@ -1,12 +1,13 @@
 ## 👋🏻 Hi, I'm Willian Endo
 
+- 📍 Living in São Paulo - Brazil
+- 🎓 Graduating as computer technician by Etec
 <!--
 **willendoo/willendoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 📍 Living in São Paulo - Brazil
-- 🎓 Graduating as computer technician by Etec
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
