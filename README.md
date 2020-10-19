@@ -5,8 +5,7 @@
 - 🛫 English Course completed at CNA
 
 [![Gmail Badge](https://img.shields.io/badge/-will.endo33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:will.endo33@gmail.com)](mailto:gabrielgigante29@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Gigante-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/willian-endo-6a925a1b5/)](https://www.linkedin.com/in/gabriel-gigante/)
-[![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/will_endoo/)] (https://www.instagram.com/will_endoo/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Willian%20Endo-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/willian-endo-6a925a1b5/)](https://www.linkedin.com/in/gabriel-gigante/)
 <!--
 **willendoo/willendoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
