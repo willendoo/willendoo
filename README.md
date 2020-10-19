@@ -1,7 +1,8 @@
 ## 👋🏻 Hi, I'm Willian Endo
 
+- 👦🏻 17 years old
 - 📍 Living in São Paulo - Brazil
-- 🎓 Graduating as computer technician by Etec
+- 🎓 Graduating as Computer Technician by Etec
 - 🛫 English Course completed at CNA
 
 <!--
