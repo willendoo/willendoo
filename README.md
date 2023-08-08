@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I'm Willian Endo
 
-- 👦🏻 19 years old
+- 👦🏻 20 years old
 - 📍 Living in São Paulo - Brazil
 - 🎓 Graduated as Computer Technician by Etec
 - 🎓 Coursing Computer Engineering 
